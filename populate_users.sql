@@ -1,0 +1,2 @@
+INSERT INTO User(firstName, middleName, lastName, username, email, passcode) VALUES ('Robert', 'Casey', 'Lafferty', 'rclafferty', 'rclafferty@huskers.unl.edu', 'test#123');
+INSERT INTO User(firstName, lastName, username, email, passcode) VALUES ('Molly', 'Lee', 'mlee', 'molly.lee@huskers.unl.edu', 'test#123');
